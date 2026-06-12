@@ -106,4 +106,4 @@ To build an interactive tool that helps:
   → healthy & trackable business growth.
 
 6. Screenshots / Demos
-   link of the dashboard : https://github.com/anjaleeyadav/Sales-Dashboard/blob/main/sales_mini_analysis.png
+   -link of the dashboard : https://github.com/anjaleeyadav/Sales-Dashboard/blob/main/sales_mini_analysis.png
